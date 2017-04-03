@@ -1,0 +1,18 @@
+/* navigation background color */
+.site-header {
+  margin-bottom: 50px;
+}
+#navi {
+  background-color:white;
+
+}
+/* navigation text color */
+
+/* link decoration */
+a {
+  color: #7f221c;
+}
+.navbar-brand{
+	padding: 0px;
+	margin:0px;
+}

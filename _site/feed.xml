@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youthot</title>
+    <description>Youthot is a blog where youth share their thought and any one with good advice</description>
+    <link>http://localhost:4000/youthot/</link>
+    <atom:link href="http://localhost:4000/youthot/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Apr 2017 15:41:49 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Apr 2017 15:41:49 +0200</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
+    
+      <item>
+        <title>Education</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.&lt;/p&gt;
+
+&lt;p&gt;Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Mar 2017 22:21:23 +0200</pubDate>
+        <link>http://localhost:4000/youthot/how-to-live/</link>
+        <guid isPermaLink="true">http://localhost:4000/youthot/how-to-live/</guid>
+        
+        
+        <category>politics,</category>
+        
+        <category>education</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.&lt;/p&gt;
+
+&lt;p&gt;Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jun 2016 07:21:47 +0200</pubDate>
+        <link>http://localhost:4000/youthot/hello-friend/</link>
+        <guid isPermaLink="true">http://localhost:4000/youthot/hello-friend/</guid>
+        
+        
+        <category>arts,</category>
+        
+        <category>inspiration</category>
+        
+      </item>
+    
+      <item>
+        <title>creativity</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.&lt;/p&gt;
+
+&lt;p&gt;Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jun 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/youthot/creative-mind/</link>
+        <guid isPermaLink="true">http://localhost:4000/youthot/creative-mind/</guid>
+        
+        
+        <category>two</category>
+        
+      </item>
+    
+      <item>
+        <title>Arts</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.&lt;/p&gt;
+
+&lt;p&gt;Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/youthot/Arts/</link>
+        <guid isPermaLink="true">http://localhost:4000/youthot/Arts/</guid>
+        
+        
+        <category>arts,</category>
+        
+        <category>inspiration</category>
+        
+      </item>
+    
+      <item>
+        <title>Post with us</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.&lt;/p&gt;
+
+&lt;p&gt;Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jun 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/youthot/post-with-us/</link>
+        <guid isPermaLink="true">http://localhost:4000/youthot/post-with-us/</guid>
+        
+        
+        <category>young</category>
+        
+        <category>people</category>
+        
+      </item>
+    
+      <item>
+        <title>Youth today</title>
+        <description>&lt;p&gt;Hello world lorem ipsum
+Hello world lorem ipsum&lt;br /&gt;
+Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdjHello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj Hello world lorem ipsum rhelrje feerw fdle fdlru fg relfdj&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 May 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/youthot/today's-youth/</link>
+        <guid isPermaLink="true">http://localhost:4000/youthot/today's-youth/</guid>
+        
+        
+        <category>politics,</category>
+        
+        <category>knowledge</category>
+        
+      </item>
+    
+  </channel>
+</rss>
