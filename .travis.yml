@@ -6,4 +6,4 @@ script:
 -"./build.sh"
 env:
   global:
-     secure:231d23f9dd8ed377321538b7ed0c10b0e45ba8e4
+     secure:2d26eb61b8278dc3c79a1dbacc69eb7f2a099ec6
