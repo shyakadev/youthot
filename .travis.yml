@@ -1,0 +1,9 @@
+language: ruby
+cache : bundler
+install:
+-bundle install
+script:
+-"./build.sh"
+env:
+  global:
+     secure:231d23f9dd8ed377321538b7ed0c10b0e45ba8e4

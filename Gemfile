@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "https://production.cf.rubygems.org"
 ruby RUBY_VERSION
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -23,6 +23,8 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-paginate"
    gem "jekyll-seo-tag"
+   gem "rake", "~> 10.1.1"
+   gem "jekyll-archives"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
