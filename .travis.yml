@@ -4,7 +4,8 @@ rvm:
 cache : bundler
 install:
 - bundle install
-script: bundle exec jekyll build
+script: 
+- bundle exec jekyll buil --safe -td
 env:
   global:
      secure:2d26eb61b8278dc3c79a1dbacc69eb7f2a099ec6
