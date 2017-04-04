@@ -1,7 +1,7 @@
 language: ruby
 cache : bundler
 install:
-- bundle install
+- bundle exec jekyll build
 script: bundle exec jekyll build
 env:
   global:
