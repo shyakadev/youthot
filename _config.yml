@@ -17,10 +17,10 @@ title: Youthot
 email: info@youthot.com
 description: Youthot is a blog where youth share their thought and any one with good advice
 baseurl: "/youthot" # the subpath of your site, e.g. /blog
-url: " https://shyakadev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: youthot
 github_username:  shyakadev
-
+repository: "shyakadev/youthot"
 # Build settings
 markdown: kramdown
 permalink: /:title/
@@ -40,12 +40,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - Rakefile
-  - changelog.md
-  - "*.Rmd"
-  - Vendor
-  - .travis.yml
-
 
 #footer
 built-by: ST
