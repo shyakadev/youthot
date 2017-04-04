@@ -1,10 +1,8 @@
 language: ruby
-rvm: 2.0.
 cache : bundler
 install:
 - bundle install
-script:
-- "./build.sh"
+script: bundle exec jekyll build
 env:
   global:
      secure:2d26eb61b8278dc3c79a1dbacc69eb7f2a099ec6
