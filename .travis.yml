@@ -1,9 +1,9 @@
 language: ruby
 cache : bundler
 install:
--bundle install
+- bundle install
 script:
--"./build.sh"
+- "./build.sh"
 env:
   global:
      secure:2d26eb61b8278dc3c79a1dbacc69eb7f2a099ec6
