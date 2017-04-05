@@ -16,7 +16,7 @@
 title: ColShare
 email: info@ycolshare.com
 description: ColShare is a blog where youth share their thought and any one with good advice
-baseurl: "/colshare" # the subpath of your site, e.g. /blog
+baseurl: "/youthot" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ColShare
 github_username:  shyakadev
