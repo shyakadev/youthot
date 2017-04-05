@@ -1,9 +1,11 @@
 /* navigation background color */
 .site-header {
-  margin-bottom: 50px;
+  margin-bottom: 80px;
 }
 #navi {
   background-color:white;
+  padding-top: 10px;
+
 
 }
 /* navigation text color */

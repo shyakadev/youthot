@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Youthot
-email: info@youthot.com
-description: Youthot is a blog where youth share their thought and any one with good advice
-baseurl: "/youthot" # the subpath of your site, e.g. /blog
+title: ColShare
+email: info@ycolshare.com
+description: ColShare is a blog where youth share their thought and any one with good advice
+baseurl: "/colshare" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: youthot
+twitter_username: ColShare
 github_username:  shyakadev
 repository: "shyakadev/youthot"
 # Build settings
@@ -44,5 +44,5 @@ exclude:
 #footer
 built-by: ST
 copyright:
-    name: Youthot
-    link: 'youthot.com'
+    name: ColShare
+    link: '#'
